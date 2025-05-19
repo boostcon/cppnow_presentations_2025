@@ -1,1 +1,45 @@
-# cppnow_presentations_2025
+# CppNow Presentations 2025
+
+More slides will be added as and when they are provided.
+
+- [Are We There Yet?](https://sean-parent.stlab.cc/papers-and-presentations/#are-we-there-yet) by Sean Parent
+- [std::optional — Standardizing Optionals over References](/Presentations/std_optional_T&.pdf) by Steve Downey
+- [Harnessing constexpr](/Presentations/Harnessing_constexpr_A_Path_to_Safer_C++.pdf) by Mikhail Svetkin
+- [Undefined Behavior From the Compiler’s Perspective](https://docs.google.com/presentation/d/16Vq2vzsXMqtK7DWbH-RuhCgJNJneF37D8tQLvyMTcR4/edit?usp=sharing) by Shachar Shemesh
+- [Overengineering max(a, b)](/Presentations/Overengineering_max.pdf) by Jonathan Müller
+- [Introduction to Partial Ordering](/Presentations/Introduction_to_Partial_Ordering.pdf) by Matheus Izvekov
+- [Advanced Ranges](/Presentations/Advanced_Ranges.pdf) by Steve Sorkin
+- [import CMake; // Mastering C++ Modules](/Presentations/Import_CMake_Mastering_Cpp_Modules.pdf) by Bill Hoffman
+- [Safer C++ at Scale with Static Analysis](/Presentations/Safer_Cpp_at_Scale_with_Static_Analysis.pdf) by Yitzhak Mandelbaum
+- [Welcome to v1.0 of the meta::[[verse]]!](https://slides.com/inballevi/welcome-to-v1-0-of-the-meta-verse-cpp-now) by Inbal  Levi
+- [Parallel Range Algorithms](/Presentations/Parallel_Range_Algorithms.pdf) by Ruslan Arutyunyan
+- [Zngur](/Presentations/Zngur.pdf) by David Sankel
+- [How the Linux User/Kernel ABI Really Works.](/Presentations/How_the_Linux_User_Kernel_ABI_Really_Works.pdf) by Greg Law
+- [C++ Memory Safety in WebKit](/Presentations/C++_Memory_Safety_in_WebKit.pdf) by Geoffrey Garen
+- [Extending std::execution](/Presentations/Extending_std_execution.pdf) by Robert Leahy
+- [From SIMD Wrappers to SIMD Ranges](https://denisyaroshevskiy.github.io/presentations/dyaroshev_presentations/conference_talks/from_simd_wrappers_1.html) by Denis Yaroshevskiy & Joel Falcou
+- [Post-Modern Cmake](/Presentations/Post-Modern_Cmake.pdf) by Vito Gamberini
+- [Lambda All the Things](https://ganets.ky/slides/2025-cppnow/) by Braden Ganetsky
+- [From SIMD Wrappers to SIMD Ranges](https://denisyaroshevskiy.github.io/presentations/dyaroshev_presentations/conference_talks/from_simd_wrappers_2.html) by Denis Yaroshevskiy & Joel Falcou
+- [Making Your Program Faster](https://docs.google.com/presentation/d/12si2tCyTqWqHoPLLdDKbkLGOxFfcXhsgLG4wD6gLkWM/edit?usp=sharing) by Ivica Bogosavljevic
+- [Five Issues with std::expected and How to Fix Them](/Presentations/Five_Issues_With_STD_Expected.pdf) by Vitaly Fanaskov
+- [Achieving Peak Performance for Matrix Multiplication](/Presentations/Achieving_Peak_Performance_for_Matrix_Multiplication.pdf) by Aliaksei Sala
+- [Declarative Style Evolved](/Presentations/Declarative_Style_Evolved.pdf) by Ben Deane
+- [Using TLA+ to Fix a Very Difficult glibc Bug](https://docs.google.com/presentation/d/1h-Ux08WAwrSrBNt1qaBhstaCUcIZaDh0QFjXg-LB8i4/edit?usp=sharing) by Malte Skarupke
+- [Identifying Runtime Errors in Mixed C++ and Rust Codebases Using Formal Methods](/Presentations/Identifying_Runtime_Errors_in_Mixed_Cpp_and_Rust_Codebases_Using_Formal_Methods.pptx) by Steve Barriault
+- [CPS in Cmake](/Presentations/CPS_in_CMake.pdf) by Bill Hoffman
+- [A View for Any Occasion](/Presentations/A_View_for_Any_Occasion.pdf) by Patrick Roberts
+- [Missing (and Future?) C++ Range Concepts](/Presentations/Missing_and_Future_Cpp_Range_Concepts.pdf) by Jonathan Müller
+- [Streamlining C++ Code](/Presentations/Streamlining_Cpp_Code.pdf) by Chandranath Bhattacharyya & Kathleen Baker
+- [Declarative Refactoring for the Masses](https://brontosource.dev/short/bb3a10e9) by Andy Soffer
+- [Getting the Lazy Task Done](/Presentations/Getting_the_Lazy_Task_Done.pdf) by Dietmar Kühl
+- [C++ as a Microscope Into Hardware](/Presentations/Cpp_as_a_Microscope_Into_Hardware.pdf) by Linus Boehm
+- [How To Affect the Future of C++ Standard in 90 Minutes](https://docs.google.com/presentation/d/1lCXHHtgcgg0fQMHjiHnF3F-zq-7d5GudtivPQId-iyw/edit?usp=sharing) by River Wu
+- [Beyond Sequential Consistency](/Presentations/Beyond_Sequential_Consistency.pptx) by Christopher Fretz
+- [Mastering the Code Review Process](/Presentations/Mastering_the_Code_Review_Process.pdf) by Peter Muldoon
+- [Program Correctness and its Limitations](/Presentations/Program_Correctness_and_its_Limitations.pdf) by David Sankel
+- [C++ on Nightmare Mode](/Presentations/Cpp_on_Nightmare_Mode.pdf) by Edouard Alligand
+- [Growing Your Toolkit From Refactoring to Automated Migrations](https://brontosource.dev/presentations/2025/cppnow/growing-your-toolkit/index.html) by Matt Kulukundis
+- [Building Streams out of Hot Air](/Presentations/Building_Streams_out_of_Hot_Air.pdf) by Steve Downey
+- [Techniques for Declarative Programming in C++](/Presentations/Techniques_For_Declarative_Programming.pdf) by Richard Powell
+- [Effective CTest](/Presentations/Effective_CTest.pdf) by Daniel Pfeifer
