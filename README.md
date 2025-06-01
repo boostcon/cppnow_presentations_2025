@@ -13,14 +13,16 @@ More slides will be added as and when they are provided.
 - [Safer C++ at Scale with Static Analysis](/Presentations/Safer_Cpp_at_Scale_with_Static_Analysis.pdf) by Yitzhak Mandelbaum
 - [Welcome to v1.0 of the meta::[[verse]]!](https://slides.com/inballevi/welcome-to-v1-0-of-the-meta-verse-cpp-now) by Inbal  Levi
 - [Parallel Range Algorithms](/Presentations/Parallel_Range_Algorithms.pdf) by Ruslan Arutyunyan
+- [Runtime Polymorphism with Freedom and Performance](/Presentations/Runtime_Polymorphism_Type_Erasure.pdf) by Eduardo Madrid
 - [Zngur](/Presentations/Zngur.pdf) by David Sankel
 - [How the Linux User/Kernel ABI Really Works.](/Presentations/How_the_Linux_User_Kernel_ABI_Really_Works.pdf) by Greg Law
 - [C++ Memory Safety in WebKit](/Presentations/C++_Memory_Safety_in_WebKit.pdf) by Geoffrey Garen
 - [Extending std::execution](/Presentations/Extending_std_execution.pdf) by Robert Leahy
-- [From SIMD Wrappers to SIMD Ranges](https://denisyaroshevskiy.github.io/presentations/dyaroshev_presentations/conference_talks/from_simd_wrappers_1.html) by Denis Yaroshevskiy & Joel Falcou
+- From SIMD Wrappers to SIMD Ranges by Denis Yaroshevskiy & Joel Falcou
+   - [Part 1](https://denisyaroshevskiy.github.io/presentations/dyaroshev_presentations/conference_talks/from_simd_wrappers_1.html)
+   - [Part 2](https://denisyaroshevskiy.github.io/presentations/dyaroshev_presentations/conference_talks/from_simd_wrappers_2.html)
 - [Post-Modern Cmake](/Presentations/Post-Modern_Cmake.pdf) by Vito Gamberini
 - [Lambda All the Things](https://ganets.ky/slides/2025-cppnow/) by Braden Ganetsky
-- [From SIMD Wrappers to SIMD Ranges](https://denisyaroshevskiy.github.io/presentations/dyaroshev_presentations/conference_talks/from_simd_wrappers_2.html) by Denis Yaroshevskiy & Joel Falcou
 - [Making Your Program Faster](https://docs.google.com/presentation/d/12si2tCyTqWqHoPLLdDKbkLGOxFfcXhsgLG4wD6gLkWM/edit?usp=sharing) by Ivica Bogosavljevic
 - [Five Issues with std::expected and How to Fix Them](/Presentations/Five_Issues_With_STD_Expected.pdf) by Vitaly Fanaskov
 - [Achieving Peak Performance for Matrix Multiplication](/Presentations/Achieving_Peak_Performance_for_Matrix_Multiplication.pdf) by Aliaksei Sala
@@ -36,6 +38,7 @@ More slides will be added as and when they are provided.
 - [C++ as a Microscope Into Hardware](/Presentations/Cpp_as_a_Microscope_Into_Hardware.pdf) by Linus Boehm
 - [How To Affect the Future of C++ Standard in 90 Minutes](https://docs.google.com/presentation/d/1lCXHHtgcgg0fQMHjiHnF3F-zq-7d5GudtivPQId-iyw/edit?usp=sharing) by River Wu
 - [Beyond Sequential Consistency](/Presentations/Beyond_Sequential_Consistency.pptx) by Christopher Fretz
+- [A Practitioner’s Guide to Writing std-Compatible Views](https://tzlaine.github.io/views_talk_cppnow_2025/) by Zach Laine
 - [Mastering the Code Review Process](/Presentations/Mastering_the_Code_Review_Process.pdf) by Peter Muldoon
 - [Program Correctness and its Limitations](/Presentations/Program_Correctness_and_its_Limitations.pdf) by David Sankel
 - [C++ on Nightmare Mode](/Presentations/Cpp_on_Nightmare_Mode.pdf) by Edouard Alligand
